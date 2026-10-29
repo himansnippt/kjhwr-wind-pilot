@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Data cache (optional to commit or exclude, keep data/ for instant start)
+# backend/data/*.json
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
